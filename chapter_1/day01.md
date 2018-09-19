@@ -1,18 +1,18 @@
-## C语言程序设计 ##
 ### 程序设计与C语言 ###
+#### 程序设计概述 ####
 
+C语言是一门通用计算机编程语言，广泛应用于底层开发。C语言的设计目标是提供一种能以简易的方式编译、处理低级存储器、产生少量的机器码以及不需要任何运行环境支持便能运行的编程语言。
 
-#### C语言资源 ####
-1. 在线编译工具
-	1. https://tool.lu/coderunner/
-	2. 菜鸟工具 https://c.runoob.com/compile/11
-2. 开发工具
-	1. VS2017（大程序）
-		1. 社区版 https://visualstudio.microsoft.com/zh-hans/downloads/
-	2. codeblocks环境配置方式一
-		1. http://www.codeblocks.org/
-			1. codeblocks-17.12-setup.exe
-		2. http://tdm-gcc.tdragon.net/download
-	3. codeblocks环境配置方式二（小程序，推荐）
-		1. http://www.codeblocks.org/
-			1. codeblocks-17.12mingw-setup.exe
+C语言之所以命名为C，是因为C语言源自Ken Thompson发明的B语言，而 B语言则源自BCPL语言。
+
+1967年，剑桥大学的Martin Richards对CPL语言进行了简化，于是产生了BCPL（Basic Combined Programming Language）语言。
+
+1970年，美国贝尔实验室的 Ken Thompson，以BCPL语言为基础，设计出很简单且很接近硬件的B语言（取BCPL的首字母）。并且他用B语言写了第一个UNIX操作系统。
+
+1972年，美国贝尔实验室的 D.M.Ritchie 在B语言的基础上最终设计出了一种新的语言，他取了BCPL的第二个字母作为这种语言的名字，这就是C语言。
+
+1973年初，C语言的主体完成。
+
+C语言是一门面向过程的计算机编程语言，与C++，Java等面向对象的编程语言有所不同。
+
+其编译器主要有VC、VS、Turbo C、等。
